@@ -1,0 +1,8 @@
+SER                7
+ZI                 9
+ns                 9
+AE                12
+SER               17
+AE                25
+MO                34
+mo                36
