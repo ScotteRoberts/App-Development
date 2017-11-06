@@ -1,8 +1,8 @@
 # App-Development
 Lab projects
 Scott Roberts
+s.e.roberts0@gmail.com
 
-Files Involved:
-	Overall, there are ten .java files (IRepl.java, ARepl.java, GameMaster.java, 	GuessANumber.java, Nim.java, AiBrain.java, Nim_GUI.java, Nim_GUI_L1.java, 	AiBrain_L1.java, MystHouse.java). 
+This repository is a backup for my Application Development class. If you wish, you can download Lab 4 from the Java src folder and play with the game master application. To start the complete game, just run GameMaster.java. You can also run any of the games individually, but it is made to start at GameMaster.
 
 Enjoy!
